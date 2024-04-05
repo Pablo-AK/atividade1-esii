@@ -3,6 +3,9 @@
 ## 🔐 Pré requisitos
 
 <a href="https://nodejs.dev/">Node</a> &nbsp;
+<a href="https://www.python.org/">Python</a> &nbsp;
+<a href="https://www.php.net/">PHP</a> &nbsp;
+<a href="https://www.typescriptlang.org/">TypeScript</a> &nbsp;
 
 ## Instalação do Projeto
 
