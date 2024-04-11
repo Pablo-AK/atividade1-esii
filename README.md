@@ -1,5 +1,5 @@
 # Projeto para atividade de git
- 
+
 ## 🔐 Pré requisitos
 
 <a href="https://nodejs.dev/">Node</a> &nbsp;
@@ -22,4 +22,6 @@ $ node calculator.js
 
 <a href="https://github.com/felipehaertelsenac"><img src="https://github.com/felipehaertelsenac.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/ricardobotelho"><img src="https://github.com/ricardobotelho.png" width="45" height="45"></a> &nbsp;
-
+<a href="https://github.com/pablokonrath"><img src="https://github.com/pablokonrath.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/FZundler"><img src="https://github.com/FZundler.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/J-Lennon"><img src="https://github.com/J-Lennon.png" width="45" height="45"></a> &nbsp;
