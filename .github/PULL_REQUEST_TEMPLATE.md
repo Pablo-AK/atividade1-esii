@@ -20,8 +20,6 @@ O objetivo deste pull request é integrar as funcionalidades desenvolvidas por c
 - Felipe: Função de subtração
 - John: Função de multiplicação
 
--Pablo: Criação do Menu da calculadora
-
 ### Passos realizados por cada colaborador
 
 1. Criou a branch de desenvolvimento `feature/xxx` a partir da branch `dev`
