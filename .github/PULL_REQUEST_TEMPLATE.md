@@ -4,10 +4,10 @@ Este pull request contém as implementações das funções implementadas na cal
 
 ### Colaboradores
 
-- Pablo (@pablo)
-- Ricardo (@ricardo)
-- Felipe (@felipe)
-- John (@john)
+- Pablo 
+- Ricardo 
+- Felipe 
+- John 
 
 ### Objetivo
 
