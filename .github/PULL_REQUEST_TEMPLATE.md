@@ -46,7 +46,7 @@ O objetivo deste pull request é integrar as funcionalidades desenvolvidas por c
 
 ### Prints de Teste
 
-![Teste de Soma](/imagens/funcao_soma.png)
-![Teste de Raiz Quadrada](/imagens/funcao_raiz.png)
-![Teste de Subtração](/imagens/funcao_sub.png)
-![Teste de Multiplicação](/imagens/funcao_mult.png)
+![Teste de Soma](.github/imagens/funcao_soma.png)
+![Teste de Raiz Quadrada](.github/imagens/funcao_raiz.png)
+![Teste de Subtração](.github/imagens/funcao_sub.png)
+![Teste de Multiplicação](.github/imagens/funcao_mult.png)
