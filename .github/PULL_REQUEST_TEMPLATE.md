@@ -1,76 +1,52 @@
-# Descrição
-Adicionar aqui uma descrição do que foi feito.
+## Descrição do Pull Request
 
-Ex.:
-Adiciona módulo de mensagens com remetente, destinatário e vinculado a uma solicitação.
+Este pull request contém as implementações das funções implementadas na calculadora, conforme distribuídas entre os colaboradores.
 
-## Implementa
-Citar aqui o que foi implementado (Pode ser em forma de itens)
+### Colaboradores
 
-Ex.:
-- Criação de mensagens
-- Listagem de mensagens por solicitação
-- Listagem de mensagens por usuários
-- Adição de subscription
-- Demais queries e mutations do nest-query
+- Pablo (@pablo)
+- Ricardo (@ricardo)
+- Felipe (@felipe)
+- John (@john)
 
-## Ajusta
-Caso na implementação, além da proposta principal da entrega, tenha sido feito algum ajuste, citar aqui.
+### Objetivo
 
-Ex.:
-- Módulo de Users para listar mensagens
-- Módulo de Solicitations para listar mensagens
+O objetivo deste pull request é integrar as funcionalidades desenvolvidas por cada colaborador na branch principal do projeto, seguindo as boas práticas recomendadas GitFlow.
 
-## Corrige
-Caso alguma correção tenha sido feita, citar aqui.
+### Implementações
 
-Ex.:
-- Nada relevante
+- Pablo: Função de soma
+- Ricardo: Função de raiz quadrada
+- Felipe: Função de subtração
+- John: Função de multiplicação
 
-## Fecha
-Enviar aqui o link da Issue que está sendo fechada.
+-Pablo: Criação do Menu da calculadora
 
-Ex.:
-Issue 7 - https://github.com/felipehaertelsenac/atividade1-esii/issues/7
+### Passos realizados por cada colaborador
 
-## Tipo de mudança (marcar as alternativas que se encaixam)
-- [ ] Nova Funcionalidade
-- [ ] Correções de bugs
-- [ ] Ajuste
+1. Criou a branch de desenvolvimento `feature/xxx` a partir da branch `dev`
+2. git switch -c feature/soma dev
+3. Feita as alterações necessárias nos arquivos logo em seguida
 
-Ex.:
-- [x] Nova Funcionalidade
-- [ ] Correções de bugs
-- [x] Ajuste
+- git status
+- git add .
+- git commit -m "Implementação da função xxxxx "
 
-# Como foi testado?
-Explicar aqui como foi testada a entrega.
+4. Feito o merge da branch de desenvolvimento na dev
 
-Ex.:
-Testes manuais no insomnia.
+- git switch dev
+- git merge feature/soma
 
-### Exemplo:
-#### Criação de mensagem
-<img width="730" alt="image" src="https://user-images.githubusercontent.com/5839083/161609904-7cf45b9a-6758-4d9a-aae9-be9b187df8ae.png">
+### Checklist
 
+- [x] As alterações foram revisadas?
+- [x] Os testes foram executados localmente?
+- [x] Todos os testes passaram?
+- [x] Funcionalidade extra
 
-#### Listagem de usuários com mensagens enviadas e recebidas
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/5839083/161609656-64ea2fad-0d1d-48e9-a080-f4f4b9a5e778.png">
+### Prints de Teste
 
-
-#### Listando mensagens de solicitações
-<img width="703" alt="image" src="https://user-images.githubusercontent.com/5839083/161610024-ee53738a-0809-4b9f-a784-49796ee6a23f.png">
-
-
-
-Checklist:
-- [x] Meu código segue os padrões do repositório, como gitmoji e commits organizados e com mensagens adequadas
-- [x] Meu código segue os padrões deste projeto
-- [ ] Escrevi testes automatizados necessários para esta entrega
-- [x] Testei exaustivamente a entrega
-- [x] Revisei o código que está sendo entregue
-- [x] Documentei de alguma forma o que foi feito para auxiliar próximos devs (em código, insomnia, documentos auxiliares)
-- [x] Minhas mudanças não geram nenhum motivo de alerta ou possível quebra de outras funcionalidades
-
-# Informações adicionais:
-Caso tenham algo a adicionar de informação, adicionar aqui.
+![Teste de Soma](public/imagens/funcao_soma.png)
+![Teste de Raiz Quadrada](public/imagens/funcao_raiz.png)
+![Teste de Subtração](public/imagens/funcao_sub.png)
+![Teste de Multiplicação](public/imagens/funcao_mult.png)
